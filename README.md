@@ -1,4 +1,4 @@
-# starbucks picture
+# starbucks picture ;)
 
 responsive full
 
